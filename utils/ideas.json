@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "img": "/idea-bg.svg",
+        "content": "VR health & safety tour of a facility that provided fake text",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "7 days ago",
+        "likes": 22
+    },
+    {
+        "id": "2",
+        "img": "/idea-bg.svg",
+        "content": "VR health & safety tour of a facility that provided fake text",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "7 days ago",
+        "likes": 7
+    },
+    {
+        "id": "3",
+        "img": "/idea-bg.svg",
+        "content": "VR health & safety tour of a facility that provided fake text",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "7 days ago",
+        "likes": 5
+    },
+    {
+        "id": "4",
+        "img": "/idea-bg.svg",
+        "content": "VR health & safety tour of a facility that provided fake text",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "7 days ago",
+        "likes": 4
+    },
+    {
+        "id": "5",
+        "img": "/idea-bg.svg",
+        "content": "VR health & safety tour of a facility that provided fake text",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "5 days ago",
+        "likes": 5
+    },
+    {
+        "id": "6",
+        "img": "/idea-bg.svg",
+        "content": "VR health & safety tour of a facility that provided fake text",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "6 days ago",
+        "likes": 6
+    },
+    {
+        "id": "7",
+        "img": "/idea-bg.svg",
+        "content": "VR health & safety tour of a facility that provided fake text",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "7 days ago",
+        "likes": 7
+    }
+]

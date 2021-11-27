@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Ubuntu;
+}
+
+.hidescroll::-webkit-scrollbar {
+  display: none;
+}
+
+.hidescroll ::-moz-scrollbar {
+  display: none;
+}
+
+.hidescroll {
+  -ms-overflow-style: none;
+  scrollbar-color: transparent transparent; /*just hides the scrollbar for firefox */
+}

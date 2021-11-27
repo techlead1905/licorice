@@ -1,0 +1,68 @@
+[
+    {
+        "id": "0",
+        "img": "/test-card.svg",
+        "title": "Virtual & Augmented Reality Challenge",
+        "content": "What ideas do you have to use Virtual or Augmented Reality to improve something, something, something",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "7 days ago",
+        "ideas": ["1","2","3","4"],
+        "likes": [1,2,3,4,5,6,7]
+    },
+    {
+        "id": "1",
+        "img": "/test-card.svg",
+        "title": "Virtual & Augmented Reality Challenge",
+        "content": "What ideas do you have to use Virtual or Augmented Reality to improve...",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "7 days ago",
+        "ideas": ["1","2","3","4","5","6","7"],
+        "likes": [1,2,3,4,5,6,7]
+    },
+    {
+        "id": "2",
+        "img": "/test-card.svg",
+        "title": "Virtual & Augmented Reality Challenge",
+        "content": "What ideas do you have to use Virtual or Augmented Reality to improve...",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "7 days ago",
+        "ideas": ["1","2","3","4","5","6","7"],
+        "likes": [1,2,3,4,5,6,7]
+    },
+    {
+        "id": "3",
+        "img": "/test-card.svg",
+        "title": "Virtual & Augmented Reality Challenge",
+        "content": "What ideas do you have to use Virtual or Augmented Reality to improve...",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "7 days ago",
+        "ideas": ["1","2","3","4","5","6","7"],
+        "likes": [1,2,3,4,5,6,7]
+    },
+    {
+        "id": "4",
+        "img": "/test-card.svg",
+        "title": "Virtual & Augmented Reality Challenge",
+        "content": "What ideas do you have to use Virtual or Augmented Reality to improve...",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "7 days ago",
+        "ideas": ["1","2","3","4","5","6","7"],
+        "likes": [1,2,3,4,5,6,7]
+    },
+    {
+        "id": "5",
+        "img": "/test-card.svg",
+        "title": "Virtual & Augmented Reality Challenge",
+        "content": "What ideas do you have to use Virtual or Augmented Reality to improve xyz",
+        "author": "Jarryd",
+        "avatar": "/user-default.svg",
+        "datetime": "7 days ago",
+        "ideas": ["1","2","3","4","5","6","7"],
+        "likes": [1,2,3,4,5,6,7]
+    }
+]
