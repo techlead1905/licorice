@@ -9,6 +9,13 @@ export default function Challenge() {
     challenges.find((item) => item.id === router.query.id);
   const challengeIdeas = allIdeas.filter((item) => ideas.includes(item.id));
 
+  const handleOpenDetails = (id) => {
+    router.push({
+      pathname: "/ideas/[id]",
+      query: { id },
+    });
+  }
+
   return (
     <div className="w-[400px] mx-auto py-9">
       <h2 className="text-3xl font-bold pb-6">{title}</h2>
@@ -47,10 +54,10 @@ export default function Challenge() {
           </div>
         </div>
         {challengeIdeas.map((idea) => (
-          <div key={idea.id} className="flex items-center pb-8">
+          <div key={idea.id} className="flex items-center pb-8" onClick={() => handleOpenDetails(idea.id)}>
             <Image src={idea.img} alt="idea" width={120} height={120} />
             <div className="pl-5">
-              <p className="text-lg">{idea.content}</p>
+              <p className="text-lg">{idea.title}</p>
               <div className="py-3 flex justify-between">
                 <div className="flex items-center">
                   <Image src={avatar} alt="avatar" width={20} height={20} />
@@ -59,7 +66,7 @@ export default function Challenge() {
                 </div>
                 <div className="flex items-center">
                   <Image src="/heart.svg" alt="heart" width={12} height={12} />
-                  <p className="pl-2">{idea.likes}</p>
+                  <p className="pl-2">{idea.likes.length}</p>
                 </div>
               </div>
             </div>
